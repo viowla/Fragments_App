@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756681130530",
+    "firebase_url": "https://instagram-dab40.firebaseio.com",
+    "project_id": "instagram-dab40",
+    "storage_bucket": "instagram-dab40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756681130530:android:471be2f620fe761f2b007b",
+        "android_client_info": {
+          "package_name": "com.example.fragmentsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756681130530-htoifjij3s0lvsdeitt76ka3fjq8m9rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbu9Z8fO6mh-0UGSw3tv8xX6fprjwOhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756681130530-htoifjij3s0lvsdeitt76ka3fjq8m9rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
